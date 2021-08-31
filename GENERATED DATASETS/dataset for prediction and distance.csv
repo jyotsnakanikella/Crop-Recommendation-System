@@ -1,0 +1,302 @@
+season,crop,N,P,K,otherfertilizers,brand,area,automation,irrigation_type,soil_type,rainfall,temperature,production,prediction of profit/loss,distance
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,M,canal irrigation,welldrained,90,25,50,4,30
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,M,canal irrigation,welldrained,90,25,50,4,40
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,M,canal irrigation,welldrained,90,25,50,4,50
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,M,canal irrigation,welldrained,90,25,50,4,40
+Kharif     ,Banana,30,1.5,18,NULL,HCFL,2,A,canal irrigation,black,90,25,45,3,90
+Kharif     ,Banana,75,0,18,NULL,CFL,3,T,canal irrigation,welldrained,90,25,40,3,30
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,T,canal irrigation,welldrained,90,25,50,4,50
+Kharif     ,Banana,75,1.5,5,NULL,HCFL,4,T,canal irrigation,red,90,25,50,2,100
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,60
+Kharif     ,Tobacco,75,30,90,FYM,NFL,1,M,canal irrigation,sandyloam,100,28,45,3,90
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,40
+Kharif     ,Tobacco,100,65,90,FYM,BFIL,1,T,groundwater,sandyloam,68,28,25,2,120
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,80
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,90
+Kharif     ,Tobacco,120,65,90,FYM,MFL,0.6,T,rainwater,red,100,40,60,1,30
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,100
+Kharif     ,Tobacco,75,35,90,FYM,RCFL,1,M,rainwater,laterite,80,28,60,1,40
+Rabi       ,Sunflower,50,40,40,FYM,CFL,1,M,canal irrigation,sandyloam,70,40,50,2,80
+Rabi       ,Sunflower,65,35,35,NULL,HCFL,2,M,canal irrigation,black,100,26,80,3,30
+Rabi       ,Sunflower,50,20,20,FYM,CFL,1,M,groundwater,sandyloam,80,30,30,1,60
+Rabi       ,Sunflower,80,50,35,FYM,BFIL,2,T,canal irrigation,sandyloam,100,26,90,3,65
+Rabi       ,Sunflower,65,35,35,FYM,NFL,1,M,rainwater,laterite,100,26,50,3,120
+Rabi       ,Sunflower,50,35,40,FYM,CFL,1,T,groundwater,sandyloam,100,26,90,3,70
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,40
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,80
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,20
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,100
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,80
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,70
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,30
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,60
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,30
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,40
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,50
+Kharif     ,Rice,100,10,30,FYM,BFIL,4,A,rainwater,loamy,100,50,250,2,70
+Kharif     ,Rice,100,5,45,FYM,CFL,4,A,groundwater,loamy,100,50,300,3,125
+Kharif     ,Rice,90,20,30,FYM,NFL,3,A,rainwater,loamy,100,20,200,1,55
+Kharif     ,Rice,120,5,45,FYM,NFL,3,A,canal irrigation,blackcotton,80,50,300,3,80
+Kharif     ,Rice,100,20,60,FYM,CFL,4,T,rainwater,loamy,150,30,350,3,60
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,40
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,30
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,45
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,3,65
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,80
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,30
+Rabi       ,Ragi,45,50,45,FYM,HFCL,6,M,canal irrigation,black,100,50,700,3,55
+Rabi       ,Ragi,30,30,45,FYM,CFL,6,M,canal irrigation,laterite,80,50,500,2,80
+Rabi       ,Ragi,60,30,30,FYM,HFCL,4,A,groundwater,sandyloam,80,34,700,3,200
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,150
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,170
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,55
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,80
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,90
+Rabi       ,Jowar,50,30,30,FYM,CFL,6,T,groundwater,sandyloam,60,30,800,3,78
+Rabi       ,Jowar,60,45,50,FYM,NFL,6,G,groundwater,black,80,20,600,2,45
+Rabi       ,Jowar,65,40,30,FYM,CFL,6,M,canal irrigation,sandyloam,60,50,750,3,23
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,90
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,100
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,60
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,50
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,100
+Kharif     ,Bajra,75,50,45,FYM,MFL,2,M,groundwater,black,30,25,275,3,50
+Kharif     ,Bajra,95,60,75,FYM,HCFL,2,A,canal irrigation,sandyloam,45,45,250,3,60
+Kharif     ,Bajra,80,55,65,FYM,MFL,2,T,grounwater,blackcotton,30,45,100,1,150
+Kharif     ,Bajra,80,75,75,FYM,MFL,2,A,groundwaer,black,45,45,175,2,200
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,300
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,65
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,45
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,10
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,100
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,80
+Rabi       ,Maize,100,70,15,FYM,CFL,3,T,rainwater,black,60,40,130,1,60
+Rabi       ,Maize,80,50,25,FYM,NFL,3,M,canal irrigation,blackcotton,50,28,180,2,170
+Rabi       ,Maize,120,80,20,FYM,HFCL,3,M,rainwater,blackcotton,50,28,200,3,35
+Rabi       ,Maize,80,60,15,FYM,HFCL,3,A,rainwater,blackcotton,70,45,260,3,60
+Rabi       ,Maize,120,60,20,FYM,BFIL,3,M,rainwater,sandyloam,65,43,180,2,90
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyloam,90,20,85,3,500
+Whole Year ,Groundnut,15,33,45,NULL,BFIL,2,G,groundwater,sandyclayey,100,26,100,1,200
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,50
+Whole Year ,Groundnut,30,25,40,NULL,NFL,3,G,groundwater,laterite,80,20,80,3,90
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,80
+Whole Year ,Groundnut,15,35,30,NULL,NFL,2,G,groundwater,black,90,24,70,3,70
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,70
+Whole Year ,Groundnut,25,20,30,NULL,CFL,1,G,groundwater,blackcotton,80,18,65,1,0
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,10
+Whole Year ,Groundnut,25,30,40,NULL,NFL,2,A,groundwater,sandyclayey,85,23,75,2,20
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,40
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,50
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,60
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,45
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,90
+Whole Year ,Turmeric,10,0,10,FYM,NFL,7,M,groundwater,sandyloam,50,40,350,3,80
+Whole Year ,Turmeric,0,10,15,FYM,CFL,9,A,groundwater,black,60,40,300,3,45
+Whole Year ,Turmeric,13,0,14,FYM,CFL,9,T,rainwater,laterite,50,40,250,2,70
+Whole Year ,Turmeric,10,10,12,FYM,NFL,9,A,canal irrigation,sandyloam,60,15,200,1,45
+Whole Year ,Turmeric,8,0,10,FYM,MFL,9,M,rainwater,blackcotton,65,29,300,3,67
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,100
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,50
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,80
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,90
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,100
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,80
+Kharif     ,Onion,60,50,45,FYM,BFIL,3,M,canal irrigation,sandyloam,75,45,150,3,200
+Kharif     ,Onion,73,36,68,FYM,NFL,3,A,rainwater,loamy,80,40,135,3,300
+Kharif     ,Onion,60,40,50,FYM,MFL,2,T,canal irrigation,black,70,28,100,2,45
+Kharif     ,Onion,55,50,50,FYM,HCFL,3,M,groundwater,sandyloam,70,40,80,1,20
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,0
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,50
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,60
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,80
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,10
+Rabi       ,Potato,120,80,80,FYM,BFIL,4,M,groundwater,loamy,150,30,100,3,90
+Rabi       ,Potato,140,100,100,FYM,CFL,4,A,canal irrigation,loose,100,25,100,3,90
+Rabi       ,Potato,100,80,120,FYM,HCFL,4,T,groundwater,loose,130,50,50,1,80
+Rabi       ,Potato,140,80,85,FYM, NFL,4,A,groundwater,black,80,30,100,3,70
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,60
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,20
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,90
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,80
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,40
+Whole Year ,Drychillies,80,65,55,FYM,HFCL,3,T,goundwater,laterite,50,30,80,1,60
+Whole Year ,Drychillies,80,50,40,FYM,MFL,3,M,canal irrigation,drainedsandyloam,75,50,100,2,90
+Whole Year ,Drychillies,75,50,50,FYM,HFCL,3,G,canal irrigation,loose,65,55,150,3,100
+Whole Year ,Drychillies,100,80,75,FYM,HFCL,2,G,canal irrigation,drainedsandyloam,55,35,160,3,40
+Whole Year ,Drychillies,80,40,40,FYM,HFCL,3,M,groundwater,drainedsandyloam,50,30,100,2,60
+Kharif     ,Coconut ,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,4,90
+Kharif     ,Coconut ,40,40,30,FYM,NFL,2,A,canal irrigation,laterite,200,30,70,3,80
+Kharif     ,Coconut ,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,3,69
+Kharif     ,Coconut ,40,0,30,NULL,BFIL,2,T,rainwater,red,200,30,60,2,80
+Rabi       ,Coconut ,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,3,90
+Rabi       ,Coconut ,40,0,30,FYM,BFIL,2,A,canal irrigation,red,80,30,40,2,100
+Rabi       ,Coconut ,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,1,40
+Rabi       ,Coconut ,80,0,30,NULL,NFL,2,G,groundwater,black,100,45,40,2,80
+Rabi       ,Cocnut,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,2,200
+Rabi       ,Coconut ,30,0,30,FYM,CFL,2,T,canal irrigation,laterite,80,18,20,1,300
+Rabi       ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,65
+Rabi       ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,78
+Rabi       ,Sugarcane,200,125,125,NULL,RCFL,3,A,canal irrigation,red,120,30,60,2,89
+Rabi       ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,90
+Rabi       ,Sugarcane,125,125,250,NULL,BFIL,3,G,canal irrigation,red,100,45,30,1,90
+Rabi       ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,45
+Rabi       ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,40
+Rabi       ,Sugarcane,250,0,125,NULL,CFL,2,T,groundwater,laterite,120,45,20,1,20
+Rabi       ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,0
+Rabi       ,Sugarcane,250,125,125,0,NFL,3,G,canal irrigation,loamy,150,30,100,3,10
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,H,canal irrigation,welldrained,90,25,50,4,30
+Kharif     ,Banana,40,1.5,18,NULL,CFL,2,T,canal irrigation,welldrained,50,25,50,2,40
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,H,canal irrigation,welldrained,90,25,50,4,20
+Kharif     ,Banana,40,1.5,18,FYM,HCFL,5,T,canal irrigation,welldrained,30,25,12,2,30
+Kharif     ,Banana,75,0,18,NULL,NFL,2,T,canal irrigation,welldrained,90,20,30,2,60
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,T,canal irrigation,welldrained,90,25,50,4,90
+Kharif     ,Banana,75,0,18,NULL,HCFL,1,A,rainwater,welldrained,45,40,5,1,100
+Kharif     ,Banana,75,1.5,18,NULL,HCFL,2,T,canal irrigation,welldrained,90,25,50,4,200
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,120
+Kharif     ,Tobacco,50,65,90,FYM,MFL,0.5,M,canal irrigation,sandyloam,45,28,10,1,150
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,160
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,A,rainwater,sandyloam,100,28,60,4,140
+Kharif     ,Tobacco,75,30,90,FYM,NFL,1,T,rainwater,laterite,68,30,60,1,100
+Kharif     ,Tobacco,80,65,90,NULL,MFL,2,G,groundwater,sandyloam,100,28,60,3,30
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,90
+Kharif     ,Tobacco,75,30,90,FYM,MFL,1,T,rainwater,black,60,28,20,2,60
+Kharif     ,Tobacco,75,65,90,NULL,RCFL,1,T,canal irrigation,sandyloam,80,35,10,1,80
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,90
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,100
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,200
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,50
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,20
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,120
+Rabi       ,Sunflower,65,35,35,FYM,CFL,1,M,canal irrigation,sandyloam,100,26,90,4,120
+Rabi       ,Sunflower,80,35,40,FYM,CFL,1,T,groundwater,sandyloam,80,40,30,1,100
+Rabi       ,Sunflower,65,35,35,FYM,NFL,2,T,canal irrigation,laterite,60,40,50,2,20
+Rabi       ,Sunflower,65,35,40,FYM,BFIL,1,M,canal irrigation,loamy,100,26,70,3,30
+Rabi       ,Sunflower,50,50,50,FYM,CFL,1,M,canal irrigation,sandyloam,80,26,60,3,20
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,85
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,50
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,100
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,40
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,20
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,80
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,100
+Kharif     ,Rice,100,20,20,NULL,BFIL,4,T,rainwater,loamy,150,30,300,3,80
+Kharif     ,Rice,120,30,60,FYM,BFIL,4,M,groundwater,laterite,100,40,230,3,60
+Kharif     ,Rice,100,20,45,FYM,NFL,3,A,rainwater,black,100,40,250,2,89
+Kharif     ,Rice,150,30,30,FYM,BFIL,4,T,groundwater,loamy,100,20,200,1,78
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,1,30
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,1,45
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,90
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,80
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,60
+Rabi       ,Ragi,30,30,30,FYM,HFCL,6,M,groundwater,black,100,34,900,4,89
+Rabi       ,Ragi,20,50,20,FYM,CFL,6,M,canal irrigation,black,100,34,700,3,60
+Rabi       ,Ragi,40,30,30,FYM,HFCL,5,T,groundwater,laterite,80,24,500,2,55
+Rabi       ,Ragi,50,25,35,FYM,NFL,6,A,rainwater,loamy,100,34,500,2,45
+Rabi       ,Ragi,30,50,30,NULL,BFIL,4,T,groundwater,black,120,50,650,3,30
+Rabi       ,Ragi,65,45,50,FYM,HFCL,5,T,canal irrigation,black,70,20,300,1,90
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,100
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,120
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,130
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,150
+Rabi       ,Jowar,60,40,40,FYM,BFIL,6,G,groundwater,sandyloam,60,30,1000,4,60
+Rabi       ,Jowar,50,30,30,FYM,CFL,6,M,groundwater,sandyloam,50,30,800,3,20
+Rabi       ,Jowar,56,25,35,FYM,BFIL,6,G,rainwater,sandyloam,45,40,500,2,20
+Rabi       ,Jowar,50,40,40,FYM,HCFL,6,G,groundwater,black,60,50,750,3,30
+Kharif     ,Bajra,80,55,75,FYM,NFL,2,T,grounwater,loamy,30,20,175,2,10
+Kharif     ,Bajra,75,60,55,FYM,MFL,2,M,canal irrigation,black,45,25,250,3,50
+Kharif     ,Bajra,80,55,40,FYM,HCFL,2,T,canal irrigation,laterite,30,40,150,1,20
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,40
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,40
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,80
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,100
+Kharif     ,Bajra,95,55,55,FYM,MFL,2,M,canal irrigation,black,45,25,355,4,80
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,90
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,100
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,120
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,140
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,150
+Rabi       ,Maize,120,60,0,FYM,HFCL,3,M,rainwater,blackcotton,70,28,260,4,20
+Rabi       ,Maize,60,50,0,FYM,HFCL,2,A,rainwater,black,50,35,200,4,30
+Rabi       ,Maize,120,60,45,FYM,CFL,3,M,canal irrigation,loamy,60,35,210,3,20
+Rabi       ,Maize,80,75,15,FYM,HFCL,3,T,groundwater,loamy,60,30,150,1,40
+Rabi       ,Maize,80,60,15,FYM,BFIL,3,M,rainwater,blackcotton,50,40,200,3,50
+Rabi       ,Maize,100,60,20,FYM,MFL,3,M,canal irrigation,blackcotton,50,30,180,2,60
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,80
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,70
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,80
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,40
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,40
+Whole Year ,Groundnut,20,40,40,NULL,NFL,2,G,groundwater,sandyclayey,100,26,100,4,0
+Whole Year ,Groundnut,40,35,35,NULL,CFL,2,G,canal irrigation,sandyclayey,80,40,80,3,80
+Whole Year ,Groundnut,35,35,40,NULL,BFIL,2,M,groundwater,loamy,80,40,70,3,60
+Whole Year ,Groundnut,20,40,35,NULL,NFL,2,G,rainwater,black,50,20,50,2,30
+Whole Year ,Groundnut,10,35,50,NULL,CFL,2,T,rainwater,loamy,70,30,30,1,20
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,80
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,0
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,100
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,0
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,M,groundwater,sandyloam,75,29,450,4,90
+Whole Year ,Turmeric,0,10,0,FYM,HCFL,7,A,canal irrigation,sandyloam,75,29,300,3,0
+Whole Year ,Turmeric,10,0,12,FYM,BFIL,9,M,groundwater,loamy,60,40,250,2,90
+Whole Year ,Turmeric,15,10,0,FYM,CFL,9,T,rainwater,laterite,65,30,200,1,60
+Whole Year ,Turmeric,0,0,0,FYM,CFL,9,T,groundwater,black,50,29,350,3,100
+Whole Year ,Turmeric,10,0,10,FYM,CFL,9,M,canal irrigation,sandyloam,60,40,300,2,120
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,150
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,30
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,90
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,60
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,90
+Kharif     ,Onion,73,36,68,FYM,BFIL,3,M,canal irrigation,sandyloam,80,28,200,4,80
+Kharif     ,Onion,80,45,75,FYM,BFIL,3,M,canal irrigation,sandyloam,35,45,150,3,70
+Kharif     ,Onion,60,36,50,FYM,MFL,3,M,groundwater,sandyloam,75,15,110,2,67
+Kharif     ,Onion,55,36,75,FYM,CFL,2,T,groundwater,black,70,50,80,1,90
+Kharif     ,Onion,73,36,68,FYM,HCFL,3,A,canal irrigation,laterite,55,40,100,3,25
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,15
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,80
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,65
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,54
+Rabi       ,Potato,140,100,100,FYM,BFIL,4,M,groundwater,loose,150,30,150,4,80
+Rabi       ,Potato,150,85,75,FYM,BFIL,4,M,groundwater,loose,125,45,100,3,90
+Rabi       ,Potato,125,100,85,FYM,NFL,4,T,canal irrigation,blackcotton,100,25,80,2,20
+Rabi       ,Potato,120,80,90,FYM,BFIL,3,M,groundwater,loose,135,40,100,1,90
+Rabi       ,Potato,135,100,75,FYM,MFL,2,A,groundwater,loose,150,50,90,3,80
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,78
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,43
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,90
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,0
+Whole Year ,Drychillies,100,50,50,FYM,HFCL,3,G,canal irrigation,drainedsandyloam,65,40,200,4,45
+Whole Year ,Drychillies,75,55,50,FYM,HFCL,4,G,groundwater,laterite,75,40,150,3,12
+Whole Year ,Drychillies,90,40,35,FYM,MFL,3,M,canal irrigation,drainedsandyloam,50,30,100,2,23
+Whole Year ,Drychillies,80,50,65,FYM,HFCL,3,G,canal irrigation,black,50,50,150,3,60
+Whole Year ,Drychillies,80,60,70,FYM,BFIL,3,G,canal irrigation,drainedsandyloam,50,35,80,1,89
+Whole Year ,Drychillies,90,50,45,FYM,HFCL,3,G,rainwater,drainedsandyloam,65,55,160,3,67
+Rabi       ,Coconut ,40,45,30,FYM,CFL,2,T,canal irrigation,red,200,30,80,3,45
+Rabi       ,Coconut ,40,0,30,FYM,BFIL,2,A,rainwater,black,100,15,50,2,34
+Whole Year ,Coconut ,50,0,40,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,4,23
+Whole Year ,Coconut ,40,30,60,FYM,BFIL,2,M,canal irrigation,black,200,30,45,2,9
+Whole Year ,Coconut ,40,0,30,FYM,BFIL,2,A,canal irrigation,laterite,200,30,90,4,100
+Whole Year ,Coconut ,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,4,90
+Whole Year ,Coconut ,40,60,30,FYM,BFIL,2,T,groundwater,laterite,60,45,20,1,90
+Whole Year ,Coconut ,60,0,30,FYM,NFL,2,M,groundwater,loamy,80,20,35,1,89
+Whole Year ,Coconut ,40,0,30,FYM,BFIL,2,M,canal irrigation,laterite,200,30,90,4,170
+Whole Year ,Coconut ,40,0,30,FYM,CFL,2,T,canal irrigation,laterite,200,30,70,3,90
+Whole Year ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,89
+Whole Year ,Sugarcane,200,125,100,FYM,RCFL,3,A,groundwater,laterite,150,20,100,3,89
+Whole Year ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,90
+Whole Year ,Sugarcane,250,0,125,NULL,CFL,3,T,canal irrigation,laterite,150,40,70,2,78
+Whole Year ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,89
+Whole Year ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,65
+Whole Year ,Sugarcane,200,125,79,NULL,HCFL,3,M,groundwater,loamy,150,30,155,4,67
+Whole Year ,Sugarcane,250,125,125,FYM,RCFL,3,M,rainwater,loamy,150,30,155,4,90
+Whole Year ,Sugarcane,250,125,125,FYM,RCFL,3,T,rainwater,laterite,120,40,70,2,89
+Whole Year ,Sugarcane,200,90,100,NULL,RCFL,3,M,groundwater,loamy,120,45,40,1,120
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,150
+Kharif     ,Tobacco,50,20,90,NULL,MFL,4,A,rainwater,sandyloam,100,35,30,3,120
+Kharif     ,Tobacco,75,65,90,FYM,MFL,1,M,rainwater,sandyloam,100,28,60,4,40
+Kharif     ,Tobacco,75,50,90,FYM,MFL,1,A,canal irrigation,laterite,100,28,40,2,120
+Kharif     ,Tobacco,75,65,50,FYM,NFL,1,T,canal irrigation,sandyloam,80,28,60,2,150
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,40
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,120
+Kharif     ,Rice,120,5,45,FYM,BFIL,4,A,rainwater,loamy,150,30,450,4,80
+Kharif     ,Rice,150,20,45,FYM,CFL,4,M,rainwater,loamy,150,40,250,3,120
+Kharif     ,Rice,120,15,45,FYM,NFL,4,A,canal irrigation,loamy,100,50,200,2,120
